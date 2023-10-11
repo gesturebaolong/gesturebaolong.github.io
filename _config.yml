@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Shanghai, China"
-#title                    : "Shanghai Baolong Automotive Corporation"
+title                    : "Paper Demo"
 title_separator          : "-"
 name                     : Shanghai Baolong Automotive Corporatio
 description              : &description "personal description"
