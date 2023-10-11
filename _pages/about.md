@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AL-MobileNet: Lightweight Gesture Recognition for Intelligent Cockpit Domain"
+title: "About the web"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
