@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the demo interface of the paper "AL-MobileNet: Lightweight Gesture Recognition for Intelligent Cockpit Domain"
+This is the demo web of the paper "AL-MobileNet: Lightweight Gesture Recognition for Intelligent Cockpit Domain"
 
-Demo
+In-car Demo
 ========
 
 ![](../images/20230412_dongchenhang_output.gif)
 
+Infrared Demo
+========
 
-<img src="https://github.com/gesturebaolong/gesturebaolong.github.io/images/20230412_dongchenhang_output.gif?raw=true">
+![](../images/stream1_20230711_142305_output.gif)
 
+Indoor Demo
+========
+
+![](../images/iphone_4k@60_output.gif)
