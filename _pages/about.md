@@ -12,5 +12,6 @@ This is the demo interface of the paper "AL-MobileNet: Lightweight Gesture Recog
 
 Demo
 ========
-<img src="https://github.com/gesturebaolong/gesturebaolong.github.io/tree/master/images/20230412_dongchenhang_output.gif?raw=true">
+
+![](../images/20230412_dongchenhang_output.gif)
 
