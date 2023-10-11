@@ -34,7 +34,6 @@ https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-
         <h3>Open Up</h3>
     </summary>
 
-https://github.com/heartyang520/heartyang520/assets/51397676/cb332e70-b5f0-4162-b36b-820ca90d06f3
 <!--Line跑码线-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
@@ -44,8 +43,6 @@ https://github.com/heartyang520/heartyang520/assets/51397676/cb332e70-b5f0-4162-
         <h3>Open Up</h3>
     </summary>
 
-https://github.com/heartyang520/heartyang520/assets/51397676/7227d8c5-2727-4cdf-8fb5-bfa494ff517e
-
 <!--Line跑码线-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
@@ -54,6 +51,3 @@ https://github.com/heartyang520/heartyang520/assets/51397676/7227d8c5-2727-4cdf-
     <summary>
         <h3>Open Up</h3>
     </summary>
-
-https://github.com/heartyang520/heartyang520/assets/51397676/63333cf3-8fd7-4d89-a9b3-2609d6b05bf7
-
