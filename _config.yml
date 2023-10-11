@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Paper Demo"
 title_separator          : "-"
-name                     : &name "Baolong"
+name                     : &name "Shanghai Baolong Automotive Corporation"
 description              : &description "personal description"
 url                      : https://gesturebaolong.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Baolong"
+  name             : "Bin Wang"
   avatar           : "BL.png"
-  bio              : "Shanghai Baolong Automotive Corporation"
+  bio              : #"Shanghai Baolong Automotive Corporation"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Shanghai Baolong Automotive Corporation"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "wangbinm@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
