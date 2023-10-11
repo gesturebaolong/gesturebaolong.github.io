@@ -12,31 +12,5 @@ This is the demo interface of the paper "AL-MobileNet: Lightweight Gesture Recog
 
 Demo
 ========
+<img src="https://github.com/gesturebaolong/gesturebaolong.github.io/tree/master/images/20230412_dongchenhang_output.gif?raw=true">
 
-<!--Line跑码线-->
-
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_b.gif?raw=true">
-<details>
-    <summary>
-        <h3>Open Up</h3>
-    </summary>
-
-<!--Line跑码线-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_c.gif?raw=true">
-<details>
-    <summary>
-        <h3>Open Up</h3>
-    </summary>
-
-<!--Line跑码线-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_d.gif?raw=true">
-<details>
-    <summary>
-        <h3>Open Up</h3>
-    </summary>
