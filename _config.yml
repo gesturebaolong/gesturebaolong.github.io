@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paper Demo"
+title                    : "Bin Wang/Gesture Demo"
 title_separator          : "-"
 name                     : &name "Shanghai Baolong Automotive Corporation"
 description              : &description "personal description"
