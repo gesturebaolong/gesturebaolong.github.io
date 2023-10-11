@@ -19,8 +19,3 @@ Infrared Demo
 ========
 
 ![](../images/stream1_20230711_142305_output.gif)
-
-Indoor Demo
-========
-
-![](../images/iphone_4k@60_output.gif)
