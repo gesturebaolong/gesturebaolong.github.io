@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bin Wang"
   avatar           : "BL.png"
-  bio              : #"Shanghai Baolong Automotive Corporation"
+  bio              : "Shanghai Baolong Automotive Corporation"
   location         : "Shanghai, China"
-  employer         : "Shanghai Baolong Automotive Corporation"
+  employer         : #"Shanghai Baolong Automotive Corporation"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wangbinm@hotmail.com"
