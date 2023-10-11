@@ -13,17 +13,6 @@ This is the demo interface of the paper "AL-MobileNet: Lightweight Gesture Recog
 Demo
 ========
 
-<H2>Favorite❤️Movie</H2>
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true"
-
-<details>
-    <summary>
-        <h3>Open Up</h3>
-    </summary>
-
-https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072
-</details>
-
 <!--Line跑码线-->
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
